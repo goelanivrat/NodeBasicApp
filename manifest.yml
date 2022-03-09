@@ -1,0 +1,5 @@
+applications:
+- name: nodeapp
+  path: app
+  memory: 64m
+  instances: 1
